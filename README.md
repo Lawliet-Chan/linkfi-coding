@@ -5,7 +5,6 @@
 ### Start the Server
 
 ```bash
-go mod download
 go run main.go
 ```
 
